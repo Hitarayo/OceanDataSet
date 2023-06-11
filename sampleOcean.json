@@ -1,0 +1,26 @@
+{
+  "main": {
+    "type": "dataset",
+    "name": "OceanProtocol",
+    "dateCreated": "2023-06-11T00:00:00Z",
+    "author": "Hitaro Rain",
+    "license": "CC-BY",
+    "description": "It's sample dataset for demonstration",
+    "files": [
+      {
+        "index": 0,
+        "contentType": "text/csv",
+        "url": "https://example.com/dataset/file1.csv"
+      },
+      {
+        "index": 1,
+        "contentType": "image/jpeg",
+        "url": "https://example.com/dataset/image.jpg"
+      }
+    ],
+    "sample": {
+      "contentType": "text/csv",
+      "url": "https://example.com/dataset/sample.csv"
+    }
+  }
+}
